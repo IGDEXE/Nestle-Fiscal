@@ -2,7 +2,8 @@
 Automação da instalação de programas fiscais de forma remota
 
 O que é isso? 
-Na epoca em que eu estava no suporte da Nestlé LATAM, tinhamos muitos chamados para instalar programas fiscais para os usuarios do contabil
+
+Na época em que eu estava no suporte da Nestlé LATAM, tínhamos muitos chamados para instalar programas fiscais para os usuários do contábil
 o que demandava muito tempo, então foi desenvolvida essa ferramenta para facilitar esse processo. 
 
 Configurações iniciais:
